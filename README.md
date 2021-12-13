@@ -12,6 +12,9 @@ de aprender e de trabalhar na area, estou muito focado em Dart - Flutter, estou 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavokg1999&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+  
+  ##
+  
 <div>
   <a href="https://www.linkedin.com/in/gustavo-rodrigues-48320b176/"target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.facebook.com/gustavo.rodriguespereiradossantos/"target="_blank" ><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
