@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá sejam bem vindos ao meu GitHub
 
-<!--
-**gustavokg1999/gustavokg1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá sou o Gustavo, tive meu primeiro contato com programação em 2015, segui tendo contato com algumas linguagens até 2018.
+Desde então segui outros rumos em minha vida,  atualmente voltei a desenvolver, agora com muita vontade
+de aprender e de trabalhar na area, estou muito focado em Dart - Flutter, estou gostando muito
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://www.linkedin.com/in/gustavo-rodrigues-48320b176/"target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.facebook.com/gustavo.rodriguespereiradossantos/"target="_blank" ><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/gustavorps_/"target="_blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> </div>
+
+  ##
+  
+    
+<div>
+ <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
+ <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    
+</div>
