@@ -1,8 +1,8 @@
 ### Olá sejam bem vindos ao meu GitHub
 
-Olá sou o Gustavo, tive meu primeiro contato com programação em 2015, segui tendo contato com algumas linguagens até 2018.
-Desde então segui outros rumos em minha vida,  atualmente voltei a desenvolver, agora com muita vontade
-de aprender e de trabalhar na area, estou muito focado em Dart - Flutter, estou gostando muito
+Olá pessoal, sempre gostei de tecnologia e de como as coisas funcionam, alguns anos atras fiz dois cursos de TI que tive essa imersão no mundo de desenvolvedor onde entendi como os softwares são feitos.
+
+Hoje tenho mais de um ano de experiência como desenvolvedor Flutter, usando ferramentas e conceitos como SOLID, CleanDart, BLOC, MVVM, Triple, Modular e teste de unidade.
 
 ##
 
