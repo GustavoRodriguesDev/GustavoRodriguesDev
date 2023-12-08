@@ -9,7 +9,8 @@
 - 📫 How to reach me: gustavorpsantos1999@gmail.com
 
 
- ![Snake animation](https://github.com/GustavoRodriguesDev/GustavoRodriguesDev/blob/output/github-contribution-grid-snake.svg)
+
+ ![snake gif](https://github.com/GustavoRodriguesDev/GustavoRodriguesDev/blob/output/github-contribution-grid-snake.svg)
 ##
   
 <div>
